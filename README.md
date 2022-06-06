@@ -1,2 +1,3 @@
 # iot_automation
-- automation of HueLight and SpeakerDevice using asyncio
+- Application of asyncio 
+- To automate of HueLight and SpeakerDevice

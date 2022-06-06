@@ -1,7 +1,3 @@
-
-# promises in java, futures - python
-# substitution, solid principle
-
 import asyncio
 from typing import Any, Awaitable
 
